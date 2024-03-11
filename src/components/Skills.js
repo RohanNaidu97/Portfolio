@@ -2,7 +2,7 @@ import "./Skills.css";
 
 function Skills(){
     return(
-        <div className="container">
+        <div className="skills">
                 <ul>
                     <li>Proficient in - Javascript, HTML, CSS & C++</li>
                     <li> Familiar with - Java & C </li>
