@@ -6,7 +6,7 @@ import Skills from "./Skills";
 
 function Page(){
     return(
-    <div className="container">
+    <div className="page">
         <h1>Rohan Naidu</h1>
         <div className="contact">
             <h4>Phone - +91 789-867-8194</h4>
