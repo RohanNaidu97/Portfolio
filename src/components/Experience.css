@@ -1,0 +1,27 @@
+.experience {
+    /* Similar styling as education for consistency */
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .experience h3 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+  }
+  
+  .experience .company {
+    /* Style the company name */
+    font-weight: bold;
+  }
+  
+  .experience .job-title {
+    /* Style the job title */
+    font-style: italic;
+  }
+  
+  .experience .description {
+    /* Style the description of the experience */
+    margin-top: 0.5rem;
+  }
+  
