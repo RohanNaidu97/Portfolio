@@ -1,0 +1,25 @@
+.education {
+    /* Add a border to separate each education entry */
+    border-bottom: 1px solid #ddd;
+    /* Add some padding for content */
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .education h4 {
+    /* Style the heading for the education institution */
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+  }
+  
+  .education .degree {
+    /* Style the degree information */
+    font-weight: bold;
+  }
+  
+  .education .dates {
+    /* Style the dates attended */
+    color: #aaa;
+    font-style: italic;
+  }
+  
