@@ -2,11 +2,11 @@ import "./Education.css";
 
 function Education(){
     return(
-        <div className="container">
+        <div className="education">
                 <h4>Lakshmi Nairain College of Technology Excellence, Bhopal</h4>
-                <p className="years-active"> 08/2016 - 07/2020 </p>
-                <p> Computer Science Engineering </p>
-                <p> 8.39 CGPA </p>                
+                <p className="dates"> 08/2016 - 07/2020 </p>
+                <p className="degree"> Computer Science Engineering </p>
+                <p className="degree"> 8.39 CGPA </p>                
         </div>
     );
     
