@@ -19,7 +19,7 @@ function Page(){
         <h2>Projects</h2>
         <Projects />
 
-        <h2>Projects</h2>
+        <h2>Education</h2>
         <Education />
 
         <h2>Skills</h2>
