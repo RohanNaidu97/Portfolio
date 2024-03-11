@@ -1,0 +1,13 @@
+.skills {
+    /* Display skills in a list format */
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .skills li {
+    /* Style each skill list item */
+    display: inline-block;
+    margin-right: 1rem;
+  }
+  
