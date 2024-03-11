@@ -1,0 +1,30 @@
+.project {
+    /* Consider using flexbox or grid for layout options */
+    display: block;
+    margin-bottom: 1rem;
+    align-items: center;
+  }
+  
+  .project .title {
+    /* Style the project title */
+    flex: 1; /* Allow title to take up most space */
+    font-weight: bold;
+  }
+  
+  .project .link {
+    /* style any links to projects */
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .project .link:hover {
+    /* Style link hover effect */
+    text-decoration: underline;
+  }
+  
+  .project .description {
+    /* Style the project description */
+    flex: 2; /* Allow description to take up more space */
+    margin-left: 1rem;
+  }
+  
