@@ -7,7 +7,7 @@
   
   .skills li {
     /* Style each skill list item */
-    display: inline-block;
+    display: block;
     margin-right: 1rem;
   }
   
